@@ -1,0 +1,52 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki</title>
+<link>http://_:80/lionwiki-3.2.11/index.php</link>
+<description>RSS feed from My new wiki</description>
+<language>en-US</language>
+
+	<item>
+	  <title>Anbang</title>
+	  <pubDate>Fri, 28 Feb 2020 13:46:44 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Anbang</link>
+	  <description><pre id="diff"><ins>Hi, I'm also known as RealOfficialTurf!</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Dio</title>
+	  <pubDate>Fri, 28 Feb 2020 13:46:29 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Dio</link>
+	  <description><pre id="diff"><ins>Hi, I'm also known as Dionysius7!</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:45:30 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Main+page</link>
+	  <description><pre id="diff">Hello world!<ins> [Anbang] and</ins> [Kono Dio <del>Da!] and [Anbang]</del><ins>Da!|Dio]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:43:15 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Main+page</link>
+	  <description><pre id="diff">Hello world! [Kono Dio Da!]<ins> and [Anbang]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:40:16 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Main+page</link>
+	  <description><pre id="diff"><ins>Hello world! [Kono Dio Da!]</ins>
+</pre></description>
+	</item>
+
+
+
+
+</channel>
+</rss>
