@@ -64,8 +64,20 @@ nginx -t
 rm /etc/nginx/sites-available/midtest
 ```
 13) Create new Symbolic link
-``shell
+```shell
  ln -s/etc/nginx/sites-available/midtest/etc/nginx/sites-enabled
 ```
-14) Reload nginx Server again.
- 
+14) Reload nginx Server again
+
+## Lion Wiki
+1) Download Lion Wiki with wget, Download Unzip
+```shell
+ wget http://lionwiki.0o.cz/download/3.2.11/lionwiki-3.2-11.zip
+ apt install unzip 
+```
+2) make ./var folder write-able
+```shell
+ chmod 777 /var -R
+```
+
+
