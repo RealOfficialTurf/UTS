@@ -79,5 +79,22 @@ rm /etc/nginx/sites-available/midtest
 ```shell
  chmod 777 /var -R
 ```
-
+## Upload/Submission
+1) Installing git, clone repo, change directory
+```shell
+ get apt install git
+ git clone https://github.com/RealOfficialTurf/UTS.git
+ cd UTS
+```
+2) Initialize Git folder and copy var to folder
+```shell
+ cp /var/www/html/lionwiki-3.2-11 . -R
+ mv ./lionwiki-3.2-11/var .
+```
+3) Add to staging, commit changes, push
+```shell
+ git add var
+ git commit -m "added /var"
+ git push origin master
+```
 
